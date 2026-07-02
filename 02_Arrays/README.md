@@ -1,6 +1,6 @@
 # Arrays
 
-This folder contains array-based Data Structures and Algorithms problems from the Striver A2Z DSA Sheet and HackerRank.
+This folder contains array-based Data Structures and Algorithms problems.
 
 Topics:
 - Largest Element
