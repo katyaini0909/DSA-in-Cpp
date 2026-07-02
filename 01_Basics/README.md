@@ -1,6 +1,6 @@
 # Basics
 
-This folder contains beginner C++ programs and HackerRank solutions.
+This folder contains beginner C++ programs.
 
 Topics:
 - Input & Output
